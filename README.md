@@ -1,2 +1,2 @@
 # BIT504_AT2_TaskB
-To demonstrate your ability to apply source and version control
+This is to demonstarte your ability to apply source and version control
